@@ -1,6 +1,6 @@
 ---
 
-I am a Computer Science student passionate about **learning and improving my programming skills**. I focus on **web development** and **solving real-world problems through technology**. I enjoy **practicing coding**, **learning new tools**, and **creating small projects** to apply what I learn.  
+I am a Computer Science student passionate about **learning and improving my programming skills**. I enjoy **practicing coding**, **learning new tools**, and **creating small projects** to apply what I learn.  
 
 ---
 
