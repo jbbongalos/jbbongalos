@@ -1,10 +1,10 @@
+---
+
 <p align="left">A Computer Science student passionate about learning and improving my programming skills. I love practicing code, exploring new tools, and building small projects that help me apply what I learn. I'm eager to grow, experiment, and develop better solutions through technology.</p>
 
-###
+---
 
 <h3 align="left">Learning</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -16,11 +16,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
 
-###
+---
 
 <h3 align="left">Tech Stack & Tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -38,17 +36,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
+---
 
 <h3 align="left">Joshua Benedict Bongalos' Github Stats</h3>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jbbongalos&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jbbongalos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="300" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jbbongalos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="500" alt="languages graph"  />
 </div>
 
-###
+---
 
 *Thank you for visiting my profile! I'm still learning, but always excited to grow as a developer.*  
+
+---
