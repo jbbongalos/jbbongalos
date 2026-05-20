@@ -1,63 +1,44 @@
-<br clear="both">
+# Hi, I'm JB! 
 
-<h4 align="left">Hi, I'm JB!<br><br>A Computer Science student currently learning Programming, and improving through hands-on coding projects. Most of the files here were created while learning different programming concepts, so some codes may be simple or still in progress.</h4>
+### Computer Science Student
+A **Computer Science student** currently learning Programming, and improving through hands-on coding projects. Most of the files here were created while learning different programming concepts, so some codes may be simple or still in progress.
 
-###
+---
 
-<br clear="both">
+### Tech Stack & Tools
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jbbongalos/jbbongalos/stats-output/stats.svg" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=jbbongalos&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://raw.githubusercontent.com/jbbongalos/jbbongalos/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-</div>
+### GitHub Statistics
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jbbongalos&show_icons=true&theme=tokyonight&count_private=true" alt="JB's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbbongalos&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+</p>
 
-<div align="left">
-  <a href="https://www.instagram.com/juice_huaa06" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/joshuabenedictbongalos06" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/jbbongalos06" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="joshuabenedictbongalos06@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://x.com/josh_waaah" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jbbongalos&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jbbongalos/jbbongalos/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jbbongalos/jbbongalos/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jbbongalos/jbbongalos/pacman-output/pacman-contribution-graph.svg">
-</picture>
+### Connect with Me
 
-###
+<p align="left">
+  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://facebook.com" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+*Most of the files here were created while learning different programming concepts. Feel free to explore my repositories!*
