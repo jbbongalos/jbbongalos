@@ -16,12 +16,17 @@ A **Computer Science student** currently learning Programming, and improving thr
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/jbbongalos?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Asia%2FManila" alt="GitHub Metrics Overview" width="100%" />
+  <img src="https://metrics.lecoq.io/jbbongalos?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Asia%2FManila&theme=dark" alt="GitHub Metrics Overview" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/jbbongalos?template=classic&base=0&languages=1&languages.sections=most-used%2C%20recently-used&languages.indepth=yes&languages.limit=8&theme=dark" alt="Top Languages by Repo and Commit" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jbbongalos&theme=dark&hide_border=true" alt="Commit Activity Timeline" width="100%" />
 </p>
+
 ---
 
 ## Connect with Me
