@@ -1,6 +1,5 @@
 # Hi, I'm JB! 
 
-### Computer Science Student 
 A **Computer Science student** currently learning Programming, and improving through hands-on coding projects. Most of the files here were created while learning different programming concepts, so some codes may be simple or still in progress.
 
 ---
@@ -13,11 +12,10 @@ A **Computer Science student** currently learning Programming, and improving thr
 
 ### GitHub Statistics
 
-![JB's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbbongalos&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jbbongalos&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jbbongalos&theme=tokyonight)
+| **Overview & Streaks** | **Most Used Languages** |
+| :---: | :---: |
+| ![JB's Stats](https://github-readme-stats.vercel.app/api?username=jbbongalos&show_icons=true&theme=tokyonight&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbbongalos&layout=compact&theme=tokyonight) |
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jbbongalos&theme=tokyonight) | *(Updated automatically based on public commits)* |
 
 ---
 
