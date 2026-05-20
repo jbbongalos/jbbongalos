@@ -25,7 +25,7 @@ A **Computer Science student** currently learning Programming, and improving thr
 
 ---
 
-### 📬 Connect with Me
+### Connect with Me
 
 * **GitHub:** [github.com/jbbongalos](https://github.com/jbbongalos)
 * **Email:** [joshuabenedictbongalos06@gmail.com](mailto:joshuabenedictbongalos06@gmail.com)
