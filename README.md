@@ -1,6 +1,7 @@
 # Hi, I'm JB! 
 
 A **Computer Science student** currently learning Programming, and improving through hands-on coding projects. Most of the files here were created while learning different programming concepts, so some codes may be simple or still in progress.
+
 ---
 
 # Tech Stack & Tools
@@ -29,24 +30,6 @@ A **Computer Science student** currently learning Programming, and improving thr
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-# GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jbbongalos&theme=github_dark" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jbbongalos&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jbbongalos&theme=github_dark" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jbbongalos&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jbbongalos&theme=github_dark&utcOffset=8" width="49%" />
-</p>
 
 ---
 
