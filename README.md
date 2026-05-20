@@ -16,25 +16,18 @@ A **Computer Science student** currently learning Programming, and improving thr
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jbbongalos&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="JB's Contribution Graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbbongalos&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jbbongalos&show_icons=true&theme=dark&hide_border=true&rank_icon=github" alt="Detailed Stats" width="49%" />
+  <img src="https://metrics.lecoq.io/jbbongalos?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Asia%2FManila" alt="GitHub Metrics Overview" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jbbongalos&theme=dark&hide_border=true" alt="Commit Activity Timeline" width="100%" />
 </p>
-
 ---
 
 ## Connect with Me
 
 * **GitHub:** [github.com/jbbongalos](https://github.com/jbbongalos)
-* **Email:** *[joshuabenedictbongalos06@gmail.com]*
-
+* **Email:** [joshuabenedictbongalos06@gmail.com](mailto:joshuabenedictbongalos06@gmail.com)
 ---
 *Most of the files here are part of my continuous learning journey in computer science. Thank you for visiting!*
 
