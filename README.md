@@ -5,7 +5,7 @@ A **Computer Science student** currently learning Programming, and improving thr
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### Tech Stack & Tools
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -15,14 +15,15 @@ A **Computer Science student** currently learning Programming, and improving thr
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jbbongalos&show_icons=true&theme=tokyonight" alt="Joshua's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbbongalos&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.add-servers.com/api?username=jbbongalos&show_icons=true&theme=tokyonight" alt="Joshua's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.add-servers.com/api/top-langs/?username=jbbongalos&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
 
 ---
+
 
 
 
